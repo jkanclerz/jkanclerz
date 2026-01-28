@@ -36,13 +36,13 @@ When I’m not programming, I 🚴.
 <p align="left">
   <img src="assets/aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect – Associate"
-       height="100" />
+       height="150" />
   <img src="assets/aws-certified-devops-engineer-professional.png"
        alt="AWS Certified DevOps Engineer – Professional"
-       height="100" />
+       height="150" />
   <img src="assets/aws-certified-data-engineer-associate.png"
        alt="AWS Certified Data Engineer – Associate"
-       height="100" />
+       height="150" />
 </p>
 
 
