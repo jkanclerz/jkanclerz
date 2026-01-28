@@ -36,7 +36,7 @@ When I’m not programming, I 🚴.
 <p align="left">
   <img src="assets/aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect – Associate"
-       style="max-height:100px; margin-right:12px;" />
+       style="max-height:50px; margin-right:12px;" />
 
   <img src="assets/aws-certified-devops-engineer-professional.png"
        alt="AWS Certified DevOps Engineer – Professional"
