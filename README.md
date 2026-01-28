@@ -33,7 +33,19 @@ When I’m not programming, I 🚴.
 
 ## 🏅 Certifications & Badges
 
+<p align="left">
+  <img src="assets/aws-certified-solutions-architect-associate.png"
+       alt="AWS Certified Solutions Architect – Associate"
+       style="max-height:100px; margin-right:12px;" />
 
+  <img src="assets/aws-certified-devops-engineer-professional.png"
+       alt="AWS Certified DevOps Engineer – Professional"
+       style="max-height:100px; margin-right:12px;" />
+
+  <img src="assets/aws-certified-data-engineer-associate.png"
+       alt="AWS Certified Data Engineer – Associate"
+       style="max-height:100px;" />
+</p>
 
 ## 📫 Let’s Connect
 
