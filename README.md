@@ -13,15 +13,6 @@ I believe every problem deserves a **tailored solution** — not templates, not 
 
 > Let’s build solutions that actually move the needle.
 
-## 🧠 How I Think
-
-- Strong opinions, loosely held  
-- Simple architectures over clever abstractions  
-- Performance matters — in systems and in teams  
-- Readable code is a competitive advantage  
-
-I treat software as a **craft**, not a race to ship the next feature.
-
 ## ⚡ A Small Personal Edge
 
 I enjoy disciplines that reward **focus, endurance, and feedback loops**.  
