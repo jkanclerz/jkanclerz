@@ -20,7 +20,6 @@ That mindset shows up in how I write code, review systems, and iterate on ideas.
 When I’m not programming, I 🚴.
 
 
----
 
 ## 🏅 Certifications & Badges
 
